@@ -16,25 +16,15 @@
 #### Programming Languages/Markups:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,css,html,js,powershell,py,ruby)](https://skillicons.dev)
-> - Bash
-> - C
-> - CSS
-> - HTML
-> - JavaScript
-> - PowerShell
-> - Python
-> - Ruby
+> Bash | C | CSS | HTML | JavaScript | PowerShell | Python | Ruby
 
 ### Software:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,wordpress)](https://skillicons.dev)
-> - Git
-> - GitHub
-> - Visual Studio Code
-> - WordPress
+> Git | GitHub | Visual Studio Code | WordPress
 
 ### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
-> - Rails
+> Rails
 
 
 <br>
