@@ -32,7 +32,7 @@
 > - Visual Studio Code
 > - WordPress
 
-### Frameworks
+### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
 > - Rails
 
